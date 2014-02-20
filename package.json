@@ -1,0 +1,17 @@
+{
+  "name": "fredsterss-tabify",
+  "description": "convert a list to tabs",
+  "version": "2.0.0",
+  "keywords": [
+    "tabs",
+    "ui",
+    "tabify"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
